@@ -14,9 +14,9 @@
 Por questões de organização as aplicações foram separadas em 3 repositorios(api, web, mobile)
 Os links dos repositorios estão abaixo:
 
-- [REST API](https://github.com/EliasGcf/gobarber-api)
-- [Web client](https://github.com/EliasGcf/gobarber-web)
-- [Mobile client](https://github.com/EliasGcf/gobarber-mobile)
+- [REST API](https://github.com/saymondamasio/feedget-api)
+- [Web client](https://github.com/saymondamasio/feedget-web)
+- [Mobile client](https://github.com/saymondamasio/feedget-mobile)
 
 ## 📝 License
 
